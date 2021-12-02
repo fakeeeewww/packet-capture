@@ -17,11 +17,8 @@
 1.国内android逆向界现状:目前国内android逆向圈"偏科"问题很严重.分为脱壳(dump),协议分析两个大的方向如果为了就业而学习,建议放弃脱壳直接学习协议分析.后者在实际工作中应用远高于前者。
 
 #相关文章
-1.    Android逆向从入门到入土(smali修改，so修改) - SegmentFault 思否
-2.    (20 封私信 / 81 条消息) Android 逆向分析学习路线？ - 知乎 (zhihu.com)
-3.    android逆向学习路线 - 哔哩哔哩 (bilibili.com)
-4.    android逆向学习路线 - 云+社区 - 腾讯云 (tencent.com)
-5.    [入门到高级] Android逆向学习路线【完整版】 - 程序员宅基地 (cxyzjd.com)
-
-
-
+1.	https://segmentfault.com/a/1190000012669267
+2.	https://www.zhihu.com/question/25626303
+3.	https://www.bilibili.com/read/cv11385765
+4.	https://cloud.tencent.com/developer/article/1692672
+5.	https://www.cxyzjd.com/article/gfg156196/102652688
