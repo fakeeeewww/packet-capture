@@ -1,5 +1,4 @@
-#步骤
-基本步骤与burp suite相似
+# 基本步骤与burp suite相似
 1.  在完成了mitmdump的安装后，(如果是手机则需要手机和电脑在统一局域网下)打开cmd，输入ipconfig -all查看ip地址；
 2.  打开cmd，输入mitmdump，查看端口设置，默认为8080；
 3.  修改模拟器上的wifi高级设置中的ip地址和端口号。
